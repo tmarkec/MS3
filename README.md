@@ -30,7 +30,7 @@ Write your user stories in this section
 ### Wireframes
 Attach wireframes in this section
 ### Agile Methodology
-Explain your agile approach to your project and insert screenshoots of your Kanban board (itterations, user stories, tasks,acceptance criteria, labels, story points...)
+Explain agile approach to your project (itterations, user stories, tasks,acceptance criteria, labels, story points...) and insert screenshoots of your Kanban board 
 ### Typography
 Explain font you've used for your project
 ### Colour Scheme
@@ -47,7 +47,7 @@ Important part of your README!!!
 ### Google's Lighthouse Performance
 Screenshots of certain pages and scores (mobile and desktop)
 ### Browser Compatibility
-Check compatability with different browsers
+Check compatability with different browsers (Firefox, Edge, Chrome)
 ### Responsiveness
 Screenshots of the responsivness, pick few devices
 ### Code Validation
