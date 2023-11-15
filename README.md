@@ -57,22 +57,23 @@ Test all your user stories, you an create table
 User Story |  Test | Pass
 --- | --- | :---:
 paste here you user story | what is visible to the user and what action they should perform | &check;
-- and attach screenshot
+- attach screenshot
 ### Manual Testing features
 Test all your features, you can use the same approach 
 | Status | feature
 |:-------:|:--------|
 | &check; | description
-- and attach screenshot
+- attach screenshot
 ### Automated testing
 If you created automated tests, insert screenshoots of your coverage and number of tests
 ## Bugs
 List of bugs and how did you fix them, you can create simple table
-
-## Deployment
-This website is deployed to Heroku from a GitHub repository, the following steps were taken:
 | Bug | Fix
 |:-------:|:--------|
+|   |    |
+## Deployment
+This website is deployed to Heroku from a GitHub repository, the following steps were taken:
+
 #### Creating Repository on GitHub
 - First make sure you are signed into [Github](https://github.com/) and go to the code institutes template, which can be found [here](https://github.com/Code-Institute-Org/gitpod-full-template).
 - Then click on **use this template** and select **Create a new repository** from the drop-down. Enter the name for the repository and click **Create repository from template**.
