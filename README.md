@@ -1,3 +1,6 @@
+# Name of your project
+Brief description of your project with image from AmIResponsive
+
 ## Table Of Contents:
 1. [Design & Planning](#design-&-planning)
     * [User Stories](#user-stories)
